@@ -1,8 +1,8 @@
 ### Hey there 👋 I'm Samrat
 
 ```python
-class Reece:
-  username = 'Samrat Mukherjee'  
+class Samrat:
+  username = 'samrat mukherjee'  
   twitter = '@0x_Samrat'
   linkedin = 'linkedin.com/in/samrat-mukherjee00/'
   work_log = 'github.com/Samrat-Mukherjee?tab=repositories'
