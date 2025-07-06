@@ -15,7 +15,8 @@ class Samrat:
         'Typescript', 'Solidity' 
         'Bash'
       ],
-      'databases': ['MySQL', 'MongoDB', 'Redis'],
+      'databases': ['MySQL', 'MongoDB'],
+      'others' : ['Kafka', 'Redis'],
       'devops': ["Docker", "Nginx"],
       'blockchain': [
         "CosmosSDK v45+"
